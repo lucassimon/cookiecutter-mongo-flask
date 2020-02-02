@@ -1,0 +1,1 @@
+# cookiecutter-mongo-flask
